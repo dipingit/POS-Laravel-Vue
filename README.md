@@ -33,5 +33,3 @@ npm run serve
 ## Account Demo
 
 1. email: admin@gmail.com Password: adminadmin
-
-This is an edited version.
